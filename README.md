@@ -8,7 +8,7 @@ Responsive QR Code component designed using semantic markup with CSS.
 
 Check out this component live by follow the link below:
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site](https://bauerceptor.github.io/fmentor-01-qr-code/)
 
 ## My process
 
