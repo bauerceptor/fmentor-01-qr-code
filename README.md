@@ -4,7 +4,7 @@ Responsive QR Code component designed using semantic markup with CSS.
 
 ## Preview
 
-![Preview of QR Code component](./preview.jpg.jpg)
+![Preview of QR Code component](./preview.jpg)
 
 Check out this component live by follow the link below:
 
